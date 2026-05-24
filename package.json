@@ -1,6 +1,6 @@
 {
   "name": "ballooning-mini",
-  "private": true,
+  "private": false,
   "type": "module",
   "sideEffects": false,
   "scripts": {
